@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89742d17-b380-460a-b4ea-02728369b25a" name="Changes" comment="Init commit (again)">
-      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConcurrentArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/fireDown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/fireHorizontal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/fireLeft.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/fireRight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/fireUp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/fireVertical.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/fireWallEast.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/fireWallNorth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/fireWallSouth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/fireWallWest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/floor1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/heroDown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/heroLeft.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/heroRight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/heroUp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/wall1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/wall2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/wall3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/wall4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image/wall5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
-    </list>
+    <list default="true" id="89742d17-b380-460a-b4ea-02728369b25a" name="Changes" comment="Init commit (again)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +38,26 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="given.App" />
+      <module name="dmu_dis1_network-game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="given.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -90,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664350137096</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Init commit (again)">
+      <created>1664350470508</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664350470508</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
