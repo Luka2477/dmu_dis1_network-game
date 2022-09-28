@@ -1,9 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89742d17-b380-460a-b4ea-02728369b25a" name="Changes" comment="Init commit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="89742d17-b380-460a-b4ea-02728369b25a" name="Changes" comment="Init commit (again)">
+      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConcurrentArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/fireDown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/fireHorizontal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/fireLeft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/fireRight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/fireUp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/fireVertical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/fireWallEast.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/fireWallNorth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/fireWallSouth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/fireWallWest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/floor1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/heroDown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/heroLeft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/heroRight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/heroUp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/wall1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/wall2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/wall3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/wall4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image/wall5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +61,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -56,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664349523686</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Init commit">
+      <created>1664350137096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664350137096</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
+    <MESSAGE value="Init commit (again)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init commit (again)" />
   </component>
 </project>
